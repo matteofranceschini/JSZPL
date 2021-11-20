@@ -10,8 +10,9 @@ const elements = {
   Circle: require('./components/circle.js'),
   Graphic: require('./components/graphic.js'),
   Grid: require('./components/grid.js'),
-  Barcode: require('./components/barcode.js'),
   Raw: require('./components/raw.js'),
+  Barcode: require('./components/barcode.js'),
+
 }
 
 module.exports = {
